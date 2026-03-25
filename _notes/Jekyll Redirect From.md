@@ -1,3 +1,6 @@
+---
+---
+
 I added the [Jekyll Redirect Gem](https://github.com/jekyll/jekyll-redirect-from) to account for my old Wordpress permalinks, which didn't have the `html` extension.
 
 I added a customized `_layouts` file called `redirect.html` which includes the `.html` extension if you've enabled it in your config yaml file.
